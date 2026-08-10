@@ -1,0 +1,5 @@
+nome = input( "qual é o seu nome? ")
+idade = input( "quantos anos você tem? ")
+print( "Olá",nome)
+print(" Você tem",idade,"anos.")
+print("Bem-vindo À programação!")
